@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Venkat
-- 👀 I’m interested in Data
+- 👀 I’m interested in Data analysis, machine learning and visualisation
 - 🌱 I’m currently learning Data Science and Analytics
 - 💞️ I’m looking to collaborate on data analytics and visualisation projects
 - 📫 How to reach me emailvenkatr@gmail.com
