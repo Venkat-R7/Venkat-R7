@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Venkat
-- 👀 I’m interested in Data analytics & visualisation, Data Integration and machine learning concepts
-- 🌱 I’m currently working on projects in Data Visualisation and analysis using Tableau 
+- 👋 Hi, I’m Venkatesh
+- 👀 I’m interested in Data scienece & analytics, Data Visualisation & Machine Learning. I also have experience in Data Warehousing and Integration.
+- 🌱 I’m currently working on projects ranging from data analytics & visualisation and ML related projects
 - 💞️ I’m looking to collaborate on data analytics and visualisation projects
 - 📫 How to reach me emailvenkatr@gmail.com
 
